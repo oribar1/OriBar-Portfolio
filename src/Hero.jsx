@@ -6,10 +6,7 @@ const Hero = () => {
         <div className='hero-title'>
           <h1>Ori Bar</h1>
           <p>
-          Recent qualification as a Business Intelligence Developer from Experis Academy. Computer Science and Cognitive Science (B.Sc.) graduate at Haifa University.
-I have strong self-learning abilities and excellent social skills. Looking for a software development position or an analytical 
-position. Python,C, C++ programming knowledge. Excellent social skills. Able to perform successfully as an 
-independent or as part of a team.
+          Hello there! I recently earned my qualification as a Business Intelligence Developer from Experis Academy and hold a degree in Computer Science and Cognitive Science (B.Sc.) from Haifa University. Endowed with strong self-learning capabilities and exceptional social skills, I am actively pursuing opportunities in software development or analytical positions. Proficient in Python, C, and C++ programming, I bring a versatile skill set to the table. 
           </p>
         </div>
         <div className='img-container'>
